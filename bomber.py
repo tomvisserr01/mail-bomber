@@ -1,7 +1,4 @@
-#Gmail Bomber by cyb3rs4k1
-#facebook link : https://www.facebook.com/cyb3rs4k1/
-#twitter link : @cyb3rs4k1
-#linkedin link : https://www.linkedin.com/in/cyb3rs4k1/
+#Gmail Bomber by tomvisserr01
 #  _______ _                 _           __                 _                     _                 _ _
 # |__   __| |               | |         / _|               | |                   | |               | (_)            
 #    | |  | |__   __ _ _ __ | | _____  | |_ ___  _ __    __| | _____      ___ __ | | ___   __ _  __| |_ _ __   __ _ 
@@ -10,7 +7,7 @@
 #    |_|  |_| |_|\__,_|_| |_|_|\_|___/ |_| \___/|_|     \__,_|\___/ \_/\_/ |_| |_|_|\___/ \__,_|\__,_|_|_| |_|\__, |
 #                                                                                                              __/ |
 #                                                                                                             |___/ 
-
+print (''' Telegram \033[93m@ARNAB431\033[97m ''')
 import smtplib
 import platform
 import getpass
